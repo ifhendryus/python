@@ -1,0 +1,8 @@
+{
+    "produtos": [
+        {"nome": "Smartphone", "preco": 1500, "quantidade": 10},
+        {"nome": "Notebook", "preco": 3500, "quantidade": 5},
+        {"nome": "Teclado", "preco": 100, "quantidade": 20},
+        {"nome": "Mouse", "preco": 50, "quantidade": 50}
+    ]
+}

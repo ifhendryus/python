@@ -1,0 +1,3 @@
+Numero1 = 31
+Numero2 = 47
+O resultado e: 78
